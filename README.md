@@ -1,2 +1,2 @@
-# dfundamental.github.io
+# dFundamental
 dFundamental Website
